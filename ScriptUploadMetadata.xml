@@ -19,9 +19,11 @@
     <FileEntry Name="Breakpoints.xml" Filter="2" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="2" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="UserTasks.xml" Filter="2" />
     <FileEntry Name="combined_WebHttpHtml17.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="8576330744.idx" Filter="1" />
     <FileEntry Name="custom_body_variables.txt" Filter="1" />
     <FileEntry Name="data.zip" Filter="1" />
@@ -39,6 +41,7 @@
     <FileEntry Name="WebHttpHtml17.c.pickle" Filter="1" />
     <FileEntry Name="WebHttpHtml17.ci" Filter="1" />
     <FileEntry Name="WebHttpHtml17.sdf" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>

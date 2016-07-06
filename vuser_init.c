@@ -79,6 +79,10 @@ vuser_init()
 	web_stream_stop("ID=1",LAST);
 
 	web_stream_close("ID=1", LAST);
+	
+	lr_output_message("Hola");
+	
+	//Solo un comentario
 
 
 	return 0;
