@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <title>MPEG-DASH Video Demo</title>
+        <link href="/playground/base.css" rel="stylesheet" type="text/css" />
+         <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+        <style>video {max-width: 100%; height: auto;}</style>
+    </head>
+    <body>
+  <nav class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="main.html">Streaming Testing Enviroment</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="http://kalimanjaro.hpswlabs.adapps.hp.com/">kalimanjaro</a></li>
+           
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav> 
+        <h1>MPEG-DASH Video Demo</h1>
+        
+        <video id="video" controls></video>
+
+
+
+    <script src="dash.all.js"></script>
+    <script>
+    (function(){
+        var url = "elephants_dream_480p_heaac5_1.mpd";
+        //var url = "/playground/video/sintel-trailer/small_dash.mpd";
+        var context = new Dash.di.DashContext();
+        var player = new MediaPlayer(context);
+            player.startup();
+            player.attachView(document.querySelector("video"));
+            player.attachSource(url);
+        })();
+    </script>
+
+    </body>
+</html>
+     </button>
+          <a class="na

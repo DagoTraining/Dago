@@ -1,0 +1,9 @@
+GET /oauth2/v1/userinfo 
+Method: GET
+Host: www.googleapis.com
+Scheme: https
+Path: /oauth2/v1/userinfo
+Authorization: OAuth ya29.CjgWA3xLkRviY6ZwZ18wOtVF805VbUkAdmQZf5rLHPIWqxrPWuk5qQ7qu6dL_i9caVGj8RH5YG0pLw
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+

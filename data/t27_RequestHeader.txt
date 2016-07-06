@@ -1,0 +1,10 @@
+GET /chrome-variations/seed?osname=win 
+Method: GET
+Host: clients4.google.com
+Scheme: https
+Path: /chrome-variations/seed?osname=win
+If-None-Match: 306faa9276c1afdff945bfe3ea1dcca5dc469cb7
+A-Im: x-bm,gzip
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+

@@ -1,0 +1,1 @@
+var Storage=KERNEL.Storage,m_pluginGUID=KERNEL.currentID().slice(1,-1),statPreffix="com.ab.statistic2_";function getCID(b){getCID=function(){};var a=document.cookie.match(RegExp("\\b\\s*"+m_pluginGUID+"_cid\\s*=\\s*([^;]+)"));a&&a[1]&&b.reply(a[1])}function main(){KERNEL.Events.addEventListener(statPreffix+"getCID",getCID)};

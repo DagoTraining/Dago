@@ -1,0 +1,10 @@
+GET /MarketDepthDemo/css/md.css HTTP/1.1
+Host: demos.lightstreamer.com
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://demos.lightstreamer.com/MarketDepthDemo/
+Cookie: AWSELB=674F1F7A88070DE84DC69505AA31207D292CDFA09D89E4D93F5A53378416B7D3C002E6806578D9F1382AED922668036ACE8B1736D21E2F05E6603F74BAFC766E1F68B499
+Connection: keep-alive
+

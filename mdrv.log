@@ -1,0 +1,190 @@
+Virtual User Script started at : 7/6/2016 2:03:00 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.53.0 for Windows 8.1; build 1203 (Jul 06 2016 19:13:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Linux; U; Android 4.0.4 ;Galaxy Nexus Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\Tek\Documents\VuGen\Scripts\WebHttpHtml17\\default.cfg"  	[MsgId: MMSG-27141]
+vuser_init.c(12): web_url("streaming-test") started  	[MsgId: MMSG-26355]
+vuser_init.c(12): web_url("streaming-test") was successful, 5028 body bytes, 153 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(23): web_url("Index-DASH.html") started  	[MsgId: MMSG-26355]
+vuser_init.c(23): web_url("Index-DASH.html") was successful, 2010 body bytes, 251 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(32): web_concurrent_start started  	[MsgId: MMSG-26355]
+vuser_init.c(32): web_concurrent_start was successful  	[MsgId: MMSG-26392]
+vuser_init.c(34): web_url("bootstrap.min.css") started  	[MsgId: MMSG-26355]
+vuser_init.c(34): Registering web_url("bootstrap.min.css") was successful  	[MsgId: MMSG-26390]
+vuser_init.c(42): web_url("jquery.min.js") started  	[MsgId: MMSG-26355]
+vuser_init.c(42): Registering web_url("jquery.min.js") was successful  	[MsgId: MMSG-26390]
+vuser_init.c(50): web_url("bootstrap.min.js") started  	[MsgId: MMSG-26355]
+vuser_init.c(50): Registering web_url("bootstrap.min.js") was successful  	[MsgId: MMSG-26390]
+vuser_init.c(58): web_url("dash.all.js") started  	[MsgId: MMSG-26355]
+vuser_init.c(58): Registering web_url("dash.all.js") was successful  	[MsgId: MMSG-26390]
+vuser_init.c(66): web_concurrent_end started  	[MsgId: MMSG-26355]
+vuser_init.c(66): web_concurrent_end was successful, 540405 body bytes, 1052 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(68): web_stream_open started  	[MsgId: MMSG-26355]
+vuser_init.c(68): Stream "http://kalimanjaro.hpeswlab.net/streaming-test/elephants_dream_480p_heaac5_1.mpd"  	[MsgId: MMSG-35158]
+vuser_init.c(68): Notify: Dump-file("C:/Users\Tek\Documents\VuGen\Scripts\WebHttpHtml17\result1\Iteration1\t7_4_elephants_dream_480p_heaac5_1.mpd") has been saved.
+vuser_init.c(68): Stream "http://kalimanjaro.hpeswlab.net/streaming-test/Video/ED_SD_480p_reenc-avc1.42c01e-0s-848x480-h264-1500000bps_seg.mp4"  	[MsgId: MMSG-35158]
+vuser_init.c(68): Stream "http://kalimanjaro.hpeswlab.net/streaming-test/Video/ED-CM-5.1-DVD_length_fixed-653s-6-heaac-320000bps_seg.mp4"  	[MsgId: MMSG-35158]
+vuser_init.c(68): Stream "http://kalimanjaro.hpeswlab.net/streaming-test/Video/ElephantsDream_en.vtt"  	[MsgId: MMSG-35158]
+vuser_init.c(68): Notify: Dump-file("C:/Users\Tek\Documents\VuGen\Scripts\WebHttpHtml17\result1\Iteration1\t7_5_ED-CM-5.1-DVD_length_fixed-653s-6-heaac-320000bps_seg.mp4") has been saved.
+vuser_init.c(68): Notify: Dump-file("C:/Users\Tek\Documents\VuGen\Scripts\WebHttpHtml17\result1\Iteration1\t7_6_ElephantsDream_en.vtt") has been saved.
+vuser_init.c(68): Notify: Dump-file("C:/Users\Tek\Documents\VuGen\Scripts\WebHttpHtml17\result1\Iteration1\t7_7_ED_SD_480p_reenc-avc1.42c01e-0s-848x480-h264-1500000bps_seg.mp4") has been saved.
+vuser_init.c(68): web_stream_open was successful  	[MsgId: MMSG-26392]
+vuser_init.c(72): web_stream_play started  	[MsgId: MMSG-26355]
+vuser_init.c(72): Notify: Stream id=1, play time: 0.000000 s, buffering time: 1.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 0.000000 s, buffering time: 2.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 0.000000 s, buffering time: 3.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 0.000000 s, buffering time: 4.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 0.000000 s, buffering time: 5.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 0.000000 s, buffering time: 6.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 0.000000 s, buffering time: 7.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 0.000000 s, buffering time: 8.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 0.000000 s, buffering time: 9.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 1.000000 s, buffering time: 0.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 1.000000 s, buffering time: 1.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 1.000000 s, buffering time: 2.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 1.000000 s, buffering time: 3.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 1.000000 s, buffering time: 4.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 1.000000 s, buffering time: 5.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 1.000000 s, buffering time: 6.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 1.000000 s, buffering time: 7.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 2.000000 s, buffering time: 0.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 2.000000 s, buffering time: 1.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 2.000000 s, buffering time: 2.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 2.000000 s, buffering time: 3.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 2.000000 s, buffering time: 4.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 3.000000 s, buffering time: 0.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 3.000000 s, buffering time: 1.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 3.000000 s, buffering time: 2.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 3.000000 s, buffering time: 3.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 3.000000 s, buffering time: 4.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 3.000000 s, buffering time: 5.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 4.000000 s, buffering time: 0.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 4.000000 s, buffering time: 1.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 4.000000 s, buffering time: 2.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 4.000000 s, buffering time: 3.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 4.000000 s, buffering time: 4.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 4.000000 s, buffering time: 5.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 4.000000 s, buffering time: 6.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 5.000000 s, buffering time: 0.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 5.000000 s, buffering time: 1.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 5.000000 s, buffering time: 2.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 5.000000 s, buffering time: 3.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 5.000000 s, buffering time: 4.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 5.000000 s, buffering time: 5.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 6.000000 s, buffering time: 0.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 6.000000 s, buffering time: 1.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 6.000000 s, buffering time: 2.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 6.000000 s, buffering time: 3.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 7.000000 s, buffering time: 0.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 7.000000 s, buffering time: 1.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 7.000000 s, buffering time: 2.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 7.000000 s, buffering time: 3.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 8.000000 s, buffering time: 0.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 8.000000 s, buffering time: 1.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 8.000000 s, buffering time: 2.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 9.000000 s, buffering time: 0.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 9.000000 s, buffering time: 1.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 9.000000 s, buffering time: 2.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 9.000000 s, buffering time: 3.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 9.000000 s, buffering time: 4.000000 s
+vuser_init.c(72): Notify: Stream id=1, play time: 10.000000 s, buffering time: 0.000000 s
+vuser_init.c(72): web_stream_play was successful  	[MsgId: MMSG-26392]
+vuser_init.c(74): web_stream_pause started  	[MsgId: MMSG-26355]
+vuser_init.c(74): web_stream_pause was successful  	[MsgId: MMSG-26392]
+vuser_init.c(77): web_stream_play started  	[MsgId: MMSG-26355]
+vuser_init.c(77): Notify: Stream id=1, play time: 11.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 11.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 12.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 12.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 12.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 13.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 13.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 13.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 14.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 14.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 15.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 15.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 15.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 16.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 16.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 17.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 17.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 17.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 17.000000 s, buffering time: 3.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 18.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 18.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 18.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 18.000000 s, buffering time: 3.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 18.000000 s, buffering time: 4.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 19.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 19.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 19.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 19.000000 s, buffering time: 3.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 19.000000 s, buffering time: 4.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 20.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 20.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 20.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 21.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 21.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 21.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 21.000000 s, buffering time: 3.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 21.000000 s, buffering time: 4.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 21.000000 s, buffering time: 5.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 3.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 4.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 5.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 6.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 7.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 8.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 9.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 10.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 11.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 12.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 13.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 14.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 15.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 16.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 17.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 18.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 19.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 22.000000 s, buffering time: 20.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 23.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 23.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 23.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 23.000000 s, buffering time: 3.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 23.000000 s, buffering time: 4.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 23.000000 s, buffering time: 5.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 23.000000 s, buffering time: 6.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 23.000000 s, buffering time: 7.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 24.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 24.000000 s, buffering time: 1.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 24.000000 s, buffering time: 2.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 24.000000 s, buffering time: 3.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 24.000000 s, buffering time: 4.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 24.000000 s, buffering time: 5.000000 s
+vuser_init.c(77): Notify: Stream id=1, play time: 25.000000 s, buffering time: 0.000000 s
+vuser_init.c(77): web_stream_play was successful  	[MsgId: MMSG-26392]
+vuser_init.c(79): web_stream_stop started  	[MsgId: MMSG-26355]
+vuser_init.c(79): Aborting download of URL "http://kalimanjaro.hpeswlab.net/streaming-test/Video/ED_SD_480p_reenc-avc1.42c01e-0s-848x480-h264-1500000bps_seg.mp4" (RelFrameId=, Internal ID=8) (e.g., due to the target document or object being deleted)  	[MsgId: MMSG-26507]
+vuser_init.c(79): web_stream_stop was successful  	[MsgId: MMSG-26392]
+vuser_init.c(81): web_stream_close started  	[MsgId: MMSG-26355]
+vuser_init.c(81): web_stream_close was successful  	[MsgId: MMSG-26392]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Warning -27077: The "vuser_init" section contains web function(s) when the "Simulate a new user on each iteration" Run-Time Setting is ON.  This may produce unpredictable results with multiple iterations  	[MsgId: MWAR-27077]
+Warning -27268: Pending Web requests detected at the end of the vuser_init section and will be aborted  	[MsgId: MWAR-27268]
+Aborting cross-step download of URL="http://kalimanjaro.hpeswlab.net/streaming-test/Video/ED-CM-5.1-DVD_length_fixed-653s-6-heaac-320000bps_seg.mp4" (RelFrameId=, Internal ID=9)  	[MsgId: MMSG-27653]
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Error: Vuser started transaction "http://kalimanjaro.hpeswlab.net/streaming-test/Video/ED_SD_480p_reenc-avc1.42c01e-0s-848x480-h264-1500000bps_seg.mp4", but did not reach a corresponding end transaction statement. The transaction ended automatically with status 'fail'.
+Ending action vuser_end.
+Vuser Terminated.

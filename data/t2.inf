@@ -1,0 +1,11 @@
+[t2]
+FileName1=t2.htm
+URL1=http://api3.appsapi.info/api/get_stat_options/6E727987_C8EA_44DA_8749_310C0FBE3C3E/ts_19/?0.3971720295693274
+Total=1
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_2.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

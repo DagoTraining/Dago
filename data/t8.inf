@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8_fg_nr_min.html
+URL1=http://files.appsapi.info/scripts/ad/fg_nr_min.js?0.750300989797367
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

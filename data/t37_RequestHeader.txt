@@ -1,0 +1,10 @@
+GET https://iecvlist.microsoft.com/IE11/1434748155000/iecompatviewlist.xml HTTP/1.1
+Accept: */*
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+DNT: 1
+Cookie: MUID=3AA790D29C556CEB31E799EF9DD26D4E; MC1=GUID=f176c90f25c04553864b41f8ab878a23&HASH=f176&LV=201606&V=4&LU=1466700924999; MSFPC=ID=f176c90f25c04553864b41f8ab878a23&CS=3&LV=201606&V=1; A=I&I=AxUFAAAAAAB+BwAAnQK74AFNxs1CzFaYfqXk1g!!&V=4; SRCHD=AF=NOFORM; SRCHUSR=DOB=20160624; RTO0=A=ODCnXYtcJU6uIcvXAijngg&B=&C=1783
+Host: iecvlist.microsoft.com
+Connection: Close
+

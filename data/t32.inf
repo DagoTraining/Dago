@@ -1,0 +1,11 @@
+[t32]
+FileName1=t32_bootstrap.min.css
+URL1=http://kalimanjaro.hpeswlab.net/streaming-test/css/bootstrap.min.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_32.xml
+RequestHeaderFile=t32_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t32_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

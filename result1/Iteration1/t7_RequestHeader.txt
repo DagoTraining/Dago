@@ -1,0 +1,9 @@
+GET /streaming-test/elephants_dream_480p_heaac5_1.mpd HTTP/1.1
+Referer: http://kalimanjaro.hpeswlab.net/streaming-test/Index-DASH.html
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.0.4 ;Galaxy Nexus Build/IMM76I) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8,es-419;q=0.7,es;q=0.5,pt-BR;q=0.3,pt;q=0.2
+Accept: */*
+Connection: Keep-Alive
+Host: kalimanjaro.hpeswlab.net
+

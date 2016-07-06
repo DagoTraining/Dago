@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Mon, 04 Jul 2016 10:16:21 GMT
+Last-Modified: Thu, 30 Jun 2016 08:18:46 GMT
+Server: AmazonS3
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Age: 36063
+X-Cache: Hit from cloudfront
+Via: 1.1 3a39d0d2c37775d4a7d6be4e3868fe9e.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 6NmNiLJQQSI-e1IRO2hia7t8rh6eQGoQ7jCPLNotN_x_UvELsKJCOg==
+

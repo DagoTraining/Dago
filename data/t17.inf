@@ -1,0 +1,11 @@
+[t17]
+FileName1=t17_plus.gif
+URL1=http://demos.lightstreamer.com/MarketDepthDemo/images/plus.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_17.xml
+RequestHeaderFile=t17_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t17_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

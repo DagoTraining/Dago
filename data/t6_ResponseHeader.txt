@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: application/x-javascript
+Content-Length: 326
+Connection: keep-alive
+Date: Mon, 04 Jul 2016 10:16:21 GMT
+Last-Modified: Thu, 12 Jun 2014 12:18:46 GMT
+ETag: "307a160ca89f67136ce3672afff9ca37"
+Accept-Ranges: bytes
+Server: AmazonS3
+Age: 36063
+X-Cache: Hit from cloudfront
+Via: 1.1 2c39a087f3a8e3a45dfc87532a773e12.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: IgFShj3VRcJfrG_Q9plYfmglMhOVx6Ax9cuqpzU6CqTWfgX2hUeXzg==
+

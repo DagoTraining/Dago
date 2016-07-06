@@ -1,0 +1,11 @@
+[t16]
+FileName1=t16_spacer.gif
+URL1=http://demos.lightstreamer.com/MarketDepthDemo/images/spacer.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_16.xml
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t16_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

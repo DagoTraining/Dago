@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=86400
+Content-Type: image/png
+Date: Mon, 04 Jul 2016 20:17:25 GMT
+ETag: "1a61e0-1dd0-530877da826ee"
+Expires: Tue, 05 Jul 2016 20:17:25 GMT
+Last-Modified: Fri, 15 Apr 2016 15:16:10 GMT
+Server: Apache
+Content-Length: 7632
+Connection: keep-alive
+

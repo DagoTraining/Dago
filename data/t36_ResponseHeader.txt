@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Length: 20
+Date: Tue, 05 Jul 2016 19:41:55 GMT
+Connection: close
+Content-Type: text/plain; charset=ISO-8859-1
+Access-Control-Expose-Headers: Server,Content-Length,Date
+Access-Control-Allow-Headers: origin,accept-encoding,referer
+Access-Control-Allow-Methods: GET,HEAD,OPTIONS
+Access-Control-Allow-Origin: *
+Server: Akamai/Time Server
+

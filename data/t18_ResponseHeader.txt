@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=7200
+Content-Encoding: gzip
+Content-Type: text/javascript
+Date: Mon, 04 Jul 2016 20:17:26 GMT
+ETag: "1a1abe-52e-530877da920ee"
+Expires: Mon, 04 Jul 2016 22:17:26 GMT
+Last-Modified: Fri, 15 Apr 2016 15:16:10 GMT
+Server: Apache
+Vary: Accept-Encoding
+Content-Length: 680
+Connection: keep-alive
+

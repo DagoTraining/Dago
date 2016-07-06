@@ -1,0 +1,11 @@
+[t35]
+SnapshotXmlFile=snapshot_35.xml
+FileName1=t35.html
+URL1=http://kalimanjaro.hpeswlab.net/streaming-test/elephants_dream_480p_heaac5_1.mpd
+Total=1
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+ContentType=application/dash+xml
+[ProtocolInfo]
+ProtocolId=QTWeb

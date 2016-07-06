@@ -1,0 +1,11 @@
+[t7]
+FileName1=t7_bg_nr_min.html
+URL1=http://files.appsapi.info/scripts/ad/bg_nr_min.js?0.14674921167543065
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_7.xml
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

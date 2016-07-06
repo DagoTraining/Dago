@@ -1,0 +1,11 @@
+[t26]
+FileName1=t26.mp4
+URL1=http://kalimanjaro.hpeswlab.net/streaming-test/video/tiny.mp4
+Total=1
+RequestHeaderFile=t26_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t26_ResponseHeader.txt
+ContentType=video/mp4
+SnapshotXmlFile=snapshot_26.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

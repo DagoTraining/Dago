@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Cache-control: no-cache="set-cookie"
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 04 Jul 2016 20:15:43 GMT
+Server: nginx
+Set-Cookie: AWSELB=6321D3467FD8F1A4905EE9F324692BAAB8888BC8517A4263C63FFFC4FCEBC17934B2FCEEA6EC6F0C788805FFFFE1446F6EB63A06259394CEF807C5D515548AB86D1D5E87;PATH=/;MAX-AGE=43200
+Content-Length: 221
+Connection: keep-alive
+
